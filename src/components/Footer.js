@@ -51,16 +51,16 @@ function Footer() {
             {/*    <AiOutlineTwitter />*/}
             {/*  </a>*/}
             {/*</li>*/}
-            {/*<li className="social-icons">*/}
-            {/*  <a*/}
-            {/*    href="https://www.linkedin.com/in/soumyajit4419/"*/}
-            {/*    style={{ color: "white" }}*/}
-            {/*    target="_blank" */}
-            {/*    rel="noopener noreferrer"*/}
-            {/*  >*/}
-            {/*    <FaLinkedinIn />*/}
-            {/*  </a>*/}
-            {/*</li>*/}
+            <li className="social-icons">
+              <a
+                href="https://www.linkedin.com/in/freya-liu-01354b289/"
+                style={{ color: "white" }}
+                target="_blank"
+                rel="noopener noreferrer"
+              >
+                <FaLinkedinIn />
+              </a>
+            </li>
             {/*<li className="social-icons">*/}
             {/*  <a*/}
             {/*    href="https://www.instagram.com/soumyajit4419"*/}
