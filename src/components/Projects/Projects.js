@@ -45,8 +45,6 @@ function Projects() {
               isBlog={false}
               title="NFT launchpad"
               description="I developed an NFT launchpad feature, which is part of a decentralized NFT trading platform. We offer a simple and straightforward trading process, along with multiple payment options, to provide users with a safe, efficient, and reliable trading experience."
-              // ghLink="https://github.com/soumyajit4419/Editor.io"
-              // demoLink="https://editor.soumya-jit.tech/"
             />
           </Col>
 
